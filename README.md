@@ -2,7 +2,7 @@
 
 # Important note
 This is a modified version of particle-cli (https://github.com/spark/particle-cli) that
-enables an automatic setup without any CLI input. Check app-modified.js for further information.
+enables an automatic setup without any CLI input. Check index.js for further information.
 
 ## Setup and execution
 
@@ -18,4 +18,4 @@ On the terminal:
 
 * git clone https://github.com/danielmapar/particle-gui
 * npm install
-* node app-modified.js // Remember to modify app-modified.js to supply your needs
+* node index.js // Remember to modify index.js to supply your needs
